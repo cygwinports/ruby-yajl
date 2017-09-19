@@ -3,7 +3,7 @@ inherit rubygem
 
 NAME="ruby-yajl"
 VERSION=1.3.0
-RELEASE=1
+RELEASE=2
 CATEGORY="Ruby"
 SUMMARY="Ruby Yajl bindings"
 DESCRIPTION="Ruby C bindings to the excellent Yajl JSON stream-based parser
